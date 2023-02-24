@@ -1,0 +1,10 @@
+com\attornatus\api\controllers\PessoaControllerTest.class
+com\attornatus\api\controllers\EmpresaControllerTest.class
+com\attornatus\api\repositories\UsuarioRepositoryTest.class
+com\attornatus\api\AttornatusApplicationTests.class
+com\attornatus\api\repositories\EmpresaRepositoryTest.class
+com\attornatus\api\services\PessoaServiceTest.class
+com\attornatus\api\services\UsuarioServiceTest.class
+com\attornatus\api\utils\PasswordUtilsTest.class
+com\attornatus\api\repositories\PessoaRepositoryTest.class
+com\attornatus\api\services\EmpresaServiceTest.class
