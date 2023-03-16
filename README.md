@@ -29,7 +29,7 @@ API será executada em http://localhost:8080
 ### Desenvolvido
 - Swagger - http://localhost:8080/swagger-ui.html
 - Foi implementado uma estrutura para o gerenciamento de acesso, onde só consegue acesso a API REST se tiver cadastrado o usuário, é necessário cadastrar a empresa, após cadastrar o usuário para fazer a autenticação em JWT.
-- Para a autenticação na API de Segurança Spring Security com a autenticação via tokens em JWT é necessário fazer a chamado no método POST em http://localhost:8080/auth, passado no JSON os dados de acesso. 
+- Para a autenticação na API de Segurança Spring Security com a autenticação via tokens em JWT é necessário fazer a chamada no método POST em http://localhost:8080/auth, passado no JSON os dados de acesso. 
 ```
 {
     "email": "admin@empresa.com", 
